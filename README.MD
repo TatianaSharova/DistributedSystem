@@ -31,17 +31,18 @@ python system.py
 <img src="examples/1.png" alt="Инициализация" style="float: left; margin-right: 10px;" />
 
 2. Добавление заданий:
-![Добавление заданий](examples/2.png)
+<img src="examples/2.png" alt="Добавление заданий" style="float: left; margin-right: 10px;" />
 
 3. Просмотр состояния серверов:
-![Cостояния серверов](examples/3.png)
+<img src="examples/3.png" alt="Cостояния серверов" style="float: left; margin-right: 10px;" />
 
 4. Обработка заданий:
-![Обработка заданий](examples/4.png)
+<img src="examples/4.png" alt="Обработка заданий" style="float: left; margin-right: 10px;" />
 
 5. Выход из программы:
 
-![Выход](examples/5.png)
+<img src="examples/5.png" alt="Выход из программы" style="float: left; margin-right: 10px;" />
+
 Или нажать Ctr+C
 
 ### Автор
