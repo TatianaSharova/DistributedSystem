@@ -16,6 +16,7 @@ Stack: Python, thread, itertools, queue
 https://github.com/TatianaSharova/DistributedSystem.git
 ```
 **_Запустить систему из директории проекта:_**
+
 Для Linux/macOS:
 ```
 python3 system.py
