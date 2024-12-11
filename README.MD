@@ -11,7 +11,7 @@ Stack: Python, thread, itertools, queue
 
 ### Локальный запуск проекта:
 
-**_Склонировать репозиторий к себе_**
+**_Склонировать репозиторий к себе:_**
 ```
 https://github.com/TatianaSharova/DistributedSystem.git
 ```
