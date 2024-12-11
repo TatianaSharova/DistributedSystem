@@ -28,7 +28,7 @@ python system.py
 
 ### Примеры работ программы:
 1. Инициализация
-![Инициализация](examples/1.png)
+<img src="examples/1.png" alt="Инициализация" style="float: left; margin-right: 10px;" />
 
 2. Добавление заданий:
 ![Добавление заданий](examples/2.png)
@@ -40,6 +40,7 @@ python system.py
 ![Обработка заданий](examples/4.png)
 
 5. Выход из программы:
+
 ![Выход](examples/5.png)
 Или нажать Ctr+C
 
